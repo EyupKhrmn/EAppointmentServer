@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentServer.Domain", "EAppointmentServer.Domain\EAppointmentServer.Domain.csproj", "{C48B7B31-232F-4696-B37C-5D71793515D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentServer.Application", "EAppointmentServer.Application\EAppointmentServer.Application.csproj", "{D161CD40-2E6E-45CB-AF68-F01044F53655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentServer.Infrastructure", "EAppointmentServer.Infrastructure\EAppointmentServer.Infrastructure.csproj", "{B160DA80-CEA2-43FE-BF02-02B7162539DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C48B7B31-232F-4696-B37C-5D71793515D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48B7B31-232F-4696-B37C-5D71793515D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48B7B31-232F-4696-B37C-5D71793515D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48B7B31-232F-4696-B37C-5D71793515D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D161CD40-2E6E-45CB-AF68-F01044F53655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D161CD40-2E6E-45CB-AF68-F01044F53655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D161CD40-2E6E-45CB-AF68-F01044F53655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D161CD40-2E6E-45CB-AF68-F01044F53655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B160DA80-CEA2-43FE-BF02-02B7162539DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B160DA80-CEA2-43FE-BF02-02B7162539DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B160DA80-CEA2-43FE-BF02-02B7162539DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B160DA80-CEA2-43FE-BF02-02B7162539DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
